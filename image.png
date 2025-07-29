@@ -1,0 +1,7 @@
+<html>
+  <body>
+    <script>
+      alert("🔥 JS fired from fake image!");
+    </script>
+  </body>
+</html>
